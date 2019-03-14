@@ -1,4 +1,4 @@
-### Handwritten digit recognization application using Convolutional Neural Network
+### Handwritten digit recognition application using Convolutional Neural Network
 
 
 ![alt text](demo.gif)
