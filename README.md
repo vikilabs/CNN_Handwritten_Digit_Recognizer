@@ -1,7 +1,7 @@
 #### Handwritten digit recognization application using Convolutional Neural Network
 
 
-![alt text] demo.gif
+![alt text](demo.gif)
 
 Additional Infos:
 
