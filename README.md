@@ -14,3 +14,8 @@ Additional Infos:
 
 
 
+## Packages Required
+
+    1. PyTorch
+    2. Pillow
+    3. torchvision
