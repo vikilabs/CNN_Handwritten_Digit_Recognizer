@@ -19,3 +19,4 @@ Additional Infos:
     1. PyTorch
     2. Pillow
     3. torchvision
+    4. opencv-python
